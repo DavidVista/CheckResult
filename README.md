@@ -12,8 +12,7 @@
   <pre>venv\Scripts\activate</pre>
   </p>
   <li> Установите нужные библиотеки (в терминале): </li>
-  <p><pre>pip freeze > reqs.txt</pre>
-<pre>pip install -r reqs.txt</pre></p>
+  <p><pre>pip install -r reqs.txt</pre></p>
 </ol>
 <h1> Инструкция по работе </h1>
 <p>
